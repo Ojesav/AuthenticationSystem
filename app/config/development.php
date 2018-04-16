@@ -28,7 +28,7 @@ return [
       'host'=>'smtp.gmail.com',
       'username'=>'ojesav990@gmail.com',
       'password'=>
-      '<title>ojesav</title>',
+      '',
       'port'=>587,
       'html'=>true
   ],
