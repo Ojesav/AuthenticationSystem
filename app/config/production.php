@@ -27,7 +27,7 @@ return [
       'smtp_secure'=>'tls',
       'host'=>'smtp.gmail.com',
       'username'=>'ojesav990@gmail.com',
-      'password'=>'<title>ojesav</title>',
+      'password'=>'',
       'port'=>587,
       'html'=>true
   ],
